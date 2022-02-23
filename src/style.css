@@ -58,7 +58,7 @@
   --color-text: #2e353f;
   --color-text-light: #4f5969;
   --color-heading: #1a202c;
-  --color-heading-black: black;
+  --color-heading-black: rgb(28, 187, 139);
   --color-accent: #d1dce5;
 }
 
