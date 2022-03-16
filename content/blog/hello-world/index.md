@@ -142,6 +142,16 @@ This is a paragraph.
 - **bold** goes here
 ```
 
+```javascript
+var f = function(a) {
+    return a++;
+}
+```
+
+```sql
+SELECT * FROM Customers;
+```
+
 1. Buy flour and salt
 1. Mix together with water
 1. Bake
